@@ -2,18 +2,18 @@
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - Moonlit Stash
+  - Armored Androgyny
+  - Flaming Guard
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - Bad Irons
+  - Dummy Think
+  - Peaceful Walk Games
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: Armored Androgyny
+- **About the name**: A reference to how a lot of my TTRPG characters end up as androgynous while wearing full armor.
+- **Social Medias with name available**: It is available on YouTube, Instagram, and the platform formerly known as Twitter.
+- **Possible domain names available**: armoredandrogyny.com is available
 
 ---
 
@@ -27,8 +27,8 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
+- Impactful Messages and/or Themes
+- Mysterious and/or Deceptively Plain character designs
 - [Value 3: e.g., Simplicity in Architecture]
 - [Value 4: e.g., Experimentation with Mechanics]
 
