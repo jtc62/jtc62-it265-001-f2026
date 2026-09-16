@@ -3,7 +3,7 @@
 ### Module: 001
 
 <!-- Repeat the below as needed-->
-### Date: 9/10/2026
+### Date: 9/15/2026
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
@@ -11,19 +11,21 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [ ] Example pending goal
-- [x] Example completed goal
+- [X] Finish the First Dev Log
+- [x] Finish the Studio Brainstorm
+- [ ] Actually decide on which Game Engine or Idea to bring from Card/Tabletop Form into Computer Game Form
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   > Set Up GitHub for a new class
+  > Thought up some studio ideas for the future
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  >  There was a GitHub repository was somehow in my root.
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  > Got help from the professor during class to clear the issue.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
@@ -31,8 +33,8 @@
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  I should think about what is something that I can make that is portfolio worthy in preparation for the future.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  (Try to) Read a bit of the textbook to get a better understanding behind the mindset that goes into Game Developement
