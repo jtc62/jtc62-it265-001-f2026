@@ -7,6 +7,7 @@ Use one copy for each concept you review. Initials are enough; do not record cla
 
 **Reviewer initials:**
 - tjb72
+  
 **In my words, the player repeatedly:**
 - Clarified the re-playability of their game with increased difficulty every 5 stages
   
