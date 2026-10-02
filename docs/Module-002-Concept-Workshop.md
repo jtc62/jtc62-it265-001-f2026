@@ -7,7 +7,7 @@
 ## Documents
 
 1. [Idea bank](./Module-002-Idea-Bank.md)
-2. [Pitch cards](./Module-002-Pitch-Card1.md
+2. [Pitch cards](./Module-002-Pitch-Card1.md)
 3. [Peer feedback](./Module-002-Peer-Feedback.md)
 4. [Selection and scope](./Module-002-Scope-Concept.md)
 5. [One-page treatment](./Module-002-One-Page-Treament.md)
