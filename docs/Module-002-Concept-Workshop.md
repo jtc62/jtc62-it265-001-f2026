@@ -1,8 +1,3 @@
----
-layout: default
-title: "Module 2 Concept Workshop"
----
-
 # Module 2 Concept Workshop
 
 **Working game title:**
