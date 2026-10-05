@@ -8,7 +8,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 - Tread
 
 **Player role and situation:**
--  Player controls a tank and roams a battlefield covered in a fog of war to look for pieces of a map to a goal
+-  Players controls a tank and roams a battlefield covered in a fog of war to look for pieces of a map to a goal
 
 **Repeated decision or action:**
 - 
