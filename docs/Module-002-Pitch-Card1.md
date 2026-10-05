@@ -20,7 +20,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 - If the tank is destroyed, the players immediately lose.
 
 **Hook:**
-- "Cohort is a PvE game in which you control a fixed-turret tank with a buddy and traverse an abandoned, yet dangerous battleground for a chance at escape."
+- "Tread is a PvE game in which you control a fixed-turret tank with a buddy and traverse an abandoned, yet dangerous battleground for a chance at escape."
 
 **Smallest useful physical prototype:**
 - 10x10 Grid on a Board with either fixed event spaces that can be rolled on (like on Monopoly), or tiles could be randomized by being entirely empty and the players roll to see which event they get on the space they land on.
