@@ -8,7 +8,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 - Cohort
 
 **Player role and situation:**
-- Player form teams that occupy four "slots" on a field called ranks with some upgrade/buff cards against another player. Units can be placed anywhere in their 4-rank formation, with some Units providing bonuses to those in front or behind them in rank.
+- Player form teams that occupy four "slots" on a field called ranks with some upgrade/buff/equipment cards against another player. Units can be placed anywhere in their 4-rank formation, with some Units providing bonuses to those in front or behind them in rank.
 - The "field" looks like this for both players: &emsp; Player 1 &emsp;| Rank 4 - Rank 3 - Rank 2 - Rank 1 | Rank 1 - Rank 2 - Rank 3 - Rank 4 |&emsp; Player 2
 
 **Repeated decision or action:**
@@ -24,7 +24,10 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 - 
 
 **Smallest useful physical prototype:**
-- 
+- Cards for Units and Upgrade/Buff/Equipment
+- At least 2 copies of each card so that each player can get one to deploy on the field.
+- A simple board that shows the field and ranks for players to reference
+- Tokens to represent Energy
 
 **Question I want listeners to answer:**
 
