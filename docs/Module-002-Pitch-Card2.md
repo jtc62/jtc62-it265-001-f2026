@@ -8,7 +8,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 - Cohort
 
 **Player role and situation:**
-- 
+- The player forms a team that occupies four "slots" with some upgrade/buff cards against another player.
 
 **Repeated decision or action:**
 - 
