@@ -13,6 +13,7 @@
 -->
 - [ ] Finish the Third Dev Log.
 - [ ] Select a single game concept to elaborate more on
+- [ ] Complete the First Journal Entry
 - [ ] Download and Play Battlezone for the Atari
 
 #### Progress
@@ -21,7 +22,8 @@
   > 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  > 
+  > Figuring out balancing mechanics for my game ideas as I try to flesh them out.
+  > Time issues with other classes needing attention.
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
   >
