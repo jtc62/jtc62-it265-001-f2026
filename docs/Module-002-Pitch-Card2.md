@@ -16,12 +16,13 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 - Units take up 1 to 3 slots on the field depending on the type of Unit/power of the unit. Each unit has either a no-energy cost action or a at minimum, 1-energy cost action, requiring players to decide whether to save their energy or to use them depending on the current situation on the field.
 - Units can be re-arranged on the field to move some units forward or backwards.
 - Units can only attack certain enemy ranks from certain rank positions. (ie. a unit in Rank 1 can use an action that hits the opponent's Rank 1 and 2, but can only use their move that hits rank 4 if the player is in rank 3.)
+- A player can use only one Unit action per turn before handing it off to the other player.
 
 **Goal, pressure, or ending:**
 - Defeating all of the enemy players' units lead to victory, whether from attrition or until surrender.
 
 **Hook:**
-- 
+- Build and Deploy a squad of units against another player and make tactical decisions to fight and win.
 
 **Smallest useful physical prototype:**
 - Cards for Units and Upgrade/Buff/Equipment
@@ -30,5 +31,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 - Tokens to represent Energy
 
 **Question I want listeners to answer:**
+- How should Upgrade/Buff/Equipment work?
+- How many different actions should a Unit have?
 
 Keep the cards as working notes. The workshop does not add a separate graded pitch submission.
