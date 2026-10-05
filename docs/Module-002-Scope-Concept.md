@@ -4,8 +4,8 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | --- | --- | --- | --- | --- |
-| Tread - Cooperative Fog-of-War Tank Exploration |  |  |  |  |
-| Cohort - Formation-Based Deck Builder Battler |  |  |  |  |
+| Tread - Cooperative Fog-of-War Tank Exploration | How should the driver move in a way that's beneficial to the gunner, and how should the gunner act in a way that benefits both of the players? | Working together with another player to control one entity | 3 Die (d6, d10, d100), A 10x10 Grid, Random encounter list/sheet, Tank Model | Making the tank customizable/Having multiple health pools for the tanks individual parts. |
+| Cohort - Formation-Based Deck Builder Battler | Should I save my energy for the next round and/or can I afford to go another round without moving/using this unit? | Build-crafting something that is unique to a player's interests. | At least 2 cards per Unit and Upgrade/Buff/Equipment, Energy Tokens, Simple Field sheet showing Ranks For Both Sides |  |
 | | | | | |
 
 **Selected concept and reason:**
