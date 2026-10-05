@@ -4,8 +4,8 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | --- | --- | --- | --- | --- |
-| Tread -  | | | | |
-| Cohort - | | | | |
+| Tread - Cooperative Fog-of-War Tank Exploration |  |  |  |  |
+| Cohort - Formation-Based Deck Builder Battler |  |  |  |  |
 | | | | | |
 
 **Selected concept and reason:**
