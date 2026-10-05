@@ -13,5 +13,5 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 **Two or three concepts to pitch:**
 
 1. Tank-Roaming Game/Darkest Dungeon style traversal - **Ready to Pitch**
-2. Titanfall Assault Style Turn-Based Card Game - **Save For Later**
+2. Titanfall Assault Style Turn-Based Card Game - **Ready to Pitch**
 3. 
