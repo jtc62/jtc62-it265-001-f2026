@@ -24,6 +24,6 @@ Use one copy for each concept you review. Initials are enough; do not record cla
 - Whether a certain card or combination is almost always considered better than every other build.
   
 **One actionable suggestion:**
-- Placeholder
+- Look towards ensuring each card has some kind of counter to it to avoid an always favorable pick.
 
 Give your notes to the designer. Designers can use the feedback in the [selection sheet](./04-select-and-scope.md) and journal entry.
