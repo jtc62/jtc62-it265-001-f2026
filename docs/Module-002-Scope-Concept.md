@@ -8,7 +8,7 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 | Cohort - Formation-Based Deck Builder Battler | Should I save my energy for the next round and/or can I afford to go another round without moving/using this unit? | Build-crafting something that is unique to a player's interests. | At least 2 cards per Unit and Upgrade/Buff/Equipment, Energy Tokens, Simple Field sheet showing Ranks For Both Sides | Energy economy balance, some units being a straight-up downgrade compared to others and will see little use. |
 | | | | | |
 
-**Selected concept and reason:**
+**Selected concept and reason: **
 
 **Feedback that changed or confirmed my choice:**
 
