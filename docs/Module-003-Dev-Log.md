@@ -11,9 +11,9 @@
 - [ ] Goal 2
 - [ ] Goal 3
 -->
-- [ ] Finish the Third Dev Log.
-- [ ] Select a single game concept to elaborate more on
-- [ ] Complete the First Journal Entry
+- [X] Finish the Third Dev Log.
+- [X] Select a single game concept to elaborate more on
+- [X] Complete the First Journal Entry
 - [ ] Download and Play Battlezone for the Atari
 
 #### Progress
