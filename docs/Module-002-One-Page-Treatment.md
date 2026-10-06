@@ -21,6 +21,7 @@ Cohort is a competitive PvP deck-builder battler game in which each player fight
 
 Each turn, the player gains 1 energy point and possibly more depending on the cards they have. The core loop focuses around which units to use, whether or not to conserve an energy point or use it now, and whether to move units, forgoing the ability to use an action for that turn. The objective is the clear the opponent's field by destroying all of their units. Reducing the number of units that an opponent has takes another possible threat off the board.
 
+The first prototype of the game will have the field, energy tokens, at least 2 basic unit cards of varying rank sizes (to allow each player at least one copy of each unit), as well as up to 5 equipment cards, also having at least 2 copies of each.
 > Add only useful audience, comparison, or loop-timing context. Keep the evolving Gameplay Timing Onion and reading reflection in your separate journal. Do not turn this into the fuller treatment or a feature catalog.
 
 ## Reader Check
