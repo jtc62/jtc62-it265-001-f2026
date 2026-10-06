@@ -9,21 +9,21 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 | | | | | |
 
 **Selected concept and reason:**
-> I decided to choose ___ because ____
+> I decided to choose Cohort because it would seem more feasible to create and seems like would be more enjoyable for a player than Tread, as I thought it would be more of a chore on the player's side as they would have to also take into consideration.
 
 **Feedback that changed or confirmed my choice:**
-> 
+> My peers told me that from what I've described, I have the gameplay loop of Cohort more thought out than Tread. They also mentioned that from a player's perspective, more dice-rolling takes agency away from the player. I also came to to the realization that the way I designed Tread was as a video game first with all of the behind the scenes work that a game AI would do, before a physical prototype. While Cohort is a game that I thought would work physically and translated well into digital.
 
 **Other ideas to keep for later:**
-> 
+> The whole idea of Tread could be saved for a later project.
 
 **First physical prototype boundary:**
-> 
+> Making multiple cards and how to properly track health per unit and how to know which unit has acted already per phase.
 
 **One feature to defer:**
 > 
 
 **One risk to test next:**
-> 
+> Expanding the traditional Rock-Paper-Scissors triangle of "Counters" for possibly up to a 5-point counter pentagram.
 
 Carry this decision into the [one-page treatment](./05-one-page-treatment.md) and [first journal entry](./06-journal-first-entry.md). This sheet is working material, not another graded submission.
