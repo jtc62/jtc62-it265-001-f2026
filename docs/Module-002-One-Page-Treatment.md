@@ -17,11 +17,11 @@ Write one coherent, one-page-length treatment. Use the four prompts to begin, th
    This version is distinctive as I can design a simple field and write up card actions in a few hours, with the actual art and cards taking a while to create, as I discovered that I have a photo printer at home.
 
 ## Treatment Draft
+Cohort is a competitive PvP deck-builder battler game in which each player fights on a field consisting of 4 Slots/Positions called Ranks and have to build a team of varying rank sizes and power. A player will also have the ability to select up to 5 Equipment/Buff cards that will be randomly shuffled into a deck that can be accessed during gameplay for an energy cost. Each turn, the player gains 1 energy point and possibly more depending on the cards they have. The core loop focuses around which units to use, whether or not to conserve an energy point or use it now, and whether to move units, forgoing the ability to use an action for that turn. The objective is the clear the opponent's field by destroying all of their units. Reducing the number of units that an opponent has takes one possible threat off the board.
 
-
-
-Add only useful audience, comparison, or loop-timing context. Keep the evolving Gameplay Timing Onion and reading reflection in your separate journal. Do not turn this into the fuller treatment or a feature catalog.
+> Add only useful audience, comparison, or loop-timing context. Keep the evolving Gameplay Timing Onion and reading reflection in your separate journal. Do not turn this into the fuller treatment or a feature catalog.
 
 ## Reader Check
 
-Ask a reader to identify the repeated decision, resulting change, ending, and first prototype. Revise unclear parts. The submitted treatment should stand on its own without these prompts.
+
+> Ask a reader to identify the repeated decision, resulting change, ending, and first prototype. Revise unclear parts. The submitted treatment should stand on its own without these prompts.
