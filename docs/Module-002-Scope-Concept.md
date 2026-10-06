@@ -21,7 +21,7 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 > Making multiple cards and how to properly track health per unit and how to know which unit has acted already per phase.
 
 **One feature to defer:**
-> 
+> Attacks at specific ranks hitting only certain enemy ranks to avoid copying Darkest Dungeon's style.
 
 **One risk to test next:**
 > Expanding the traditional Rock-Paper-Scissors triangle of "Counters" for possibly up to a 5-point counter pentagram.
