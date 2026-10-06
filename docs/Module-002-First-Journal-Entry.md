@@ -42,7 +42,7 @@ Having the Idea - Inspiration
 Still relevant
 
 **Reason and supporting example:** 
-Inspiration is something that could strike at any moment and we often try to seek things that we want to work together. For example, when thinking about what kind of theme I want my game to have and what the player should feel like, I found that leading a squad of no-name soldiers and protecting them in other games is a goal that some gamers have and they feel a sense of satisfaction when they save these NPCs. I wanted the same feeling to happen with my game. 
+Inspiration is something that could strike at any moment and we often try to seek things that we want to work together. For example, when thinking about what kind of theme I want my game to have and what the player should feel like, I found that leading a squad of no-name soldiers and protecting them in other games is a goal that some gamers have and they feel a sense of satisfaction when they save these NPCs. I wanted the same feeling to happen with my game.
 
 **Connection to a choice, question or proposed test for my game:**
 I looked towards my Steam Library and what things have recently caught my interest, such as multiplayer military games where players fight as a team to complete an objective. I had to figure out how could I get this teamwork feeling in a 2 player game where each player is fighting against the other? Then I thought up making the player focus on building teams to create a form of synergy between units that they would like.
@@ -50,16 +50,16 @@ I looked towards my Steam Library and what things have recently caught my intere
 ## Progress and Evidence
 
 **What I created, changed, tested, or decided:**
-I created the skeleton of what I wanted my game to be, but didn't want to completely rip off from some of my inspirations, so I removed some complicated things that would only harm the user's experience via confusion.
+I created the skeleton of what I wanted my game to be, focusing on an energy economy, focus on formation, and unit synergy, but didn't want to completely rip off from some of my inspirations, so I removed some complicated things that would only harm the user's experience via confusion.
 
 **Direct artifact link or specific observation:**
-
+[Pitch card 2](./Module-002-Pitch-Card2.md)  
 
 **What the evidence confirms:**
-
+The core loop of choosing one unit per turn, spending energy, and managing formation, is simple enough to prototype physically while still offering meaningful tactical depth.
 
 **What remains uncertain:**
-How exactly to track Health per unit? 
+How exactly to track Health per unit in a way that is fast and doesn't clutter the board.
 
 ## Rough Gameplay Timing Onion
 
@@ -67,9 +67,9 @@ Describe the nested activities in words or a simple diagram. The table is a star
 
 | Layer | Player activity or outcome | Tentative timing |
 | --- | --- | --- |
-| Immediate decision | Player decides to attack the weakest enemy unit to remove them from the field. | |
-| Larger objective | Player decides to move a unit behind another, gaining a defensive buff and save on an energy point. | |
-| Session | Player thinks about how they will build their next squad and what synergies can be built. | |
+| Immediate decision | Player decides to attack the weakest enemy unit to remove them from the field. | Seconds/1 turn |
+| Larger objective | Player decides to move a unit behind another, gaining a defensive buff and save on an energy point for a future turn. | Seconds/Minutes/1 Turn |
+| Session | Player thinks about how they will build their next squad and what synergies can be built. | Full session |
 
 Keep the working model in the journal. The treatment needs only the timing context that helps a reader understand play.
 
