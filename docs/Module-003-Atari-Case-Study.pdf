@@ -1,0 +1,1351 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [42. 667. 430.2999999999999545 654.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/jtc62) >> >>
+<</Type /Annot /Subtype /Link /Rect [42. 641. 466.0999999999997954 628.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/jtc62) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4772
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 19 Tf
+21.8499999999999979 TL
+0 g
+42. 748. Td
+(Case Study 1 - Atari) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+42. 724. Td
+(Student submission) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 706. Td
+(Assignment revision: 5 | Maximum points: 10 | Student: jtc62 | Submitted:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 694. Td
+(2026-10-13T03:00:31.155Z | Submission revision: 420 | Receipt:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 682. Td
+(v4r_01M4SK8P9MNA4XY2CJGW6ATT8C | Exported: 2026-10-13T03:00:35.409Z) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+42. 670. Td
+(Worksheet link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 657. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/jtc62) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+42. 644. Td
+(Grading link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 631. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/jtc62) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+42. 618. Td
+(AI disclosure: Completed; 1 entry; 0 declared AI use; 1 declared no AI use; policy v1) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 596. Td
+(Game Overview) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 571. Td
+(Game details) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 554. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 539. Td
+(Identify the game: title, developer, publisher, original platform, genre, and release date. Note) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 526. Td
+(the version you played if different.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 513. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 498. Td
+(Title: Battlezone \(Atari 2600 Version\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 485. Td
+(Developer: Atari, Mike Feinstein, Brad Rice) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 472. Td
+(Publisher: Atari) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 459. Td
+(Original Platform: Arcade \(2600 is a port of the 1980 Arcade Original\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 446. Td
+(Genre: Action, Simulation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 433. Td
+(https://atarionline.org/atari-2600/battlezone) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 420. Td
+(Release Date: 1983) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 392. Td
+(History and industry) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 375. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 360. Td
+(Explain the historical context of the release and where the game fit in the industry at that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 347. Td
+(time.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 334. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 319. Td
+(This version of Battlezone was released in 1983 and was ported to platforms other than the Atari 2600 such as the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 306. Td
+(Commodore 64, ZX Spectrum, Apple II, and IBM PC compatibles. At this time in history, there was actually a crash in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 293. Td
+(the video game market, with there being an oversaturation of games for these consoles, and Atari couldn't replicate the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 280. Td
+(3D vector graphics used on the Arcade original and had to use colorful sprites instead, swapping off from a first-person) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 267. Td
+(periscope view to a third person view.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 254. Td
+(https://www.cgcgrading.com/news/articles/the-great-video-game-crash-of-1983-part-1-5Vr5Vqkh9JnvoXOAY3l5LV/) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 226. Td
+(Contemporary comparison) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 209. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 194. Td
+(Compare the game with a similar game from the same period, explaining a meaningful) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 181. Td
+(design similarity or difference.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 168. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 153. Td
+(Another game from the same period would be Activision's "Robot Tank", which had gameplay that was practically similar) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 140. Td
+(to Atari's Battlezone. Something that differs from Atari's Battlezone compared to Robot Tank is that instead of being just) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 127. Td
+(a arcade shooter, Robot Tank aims for a more strategic and tactical approach towards gameplay. The game has many) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 114. Td
+(more features compared to Battlezone such as damage zones on the tank and different weather conditions.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 1 of 4) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 5868
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 748. Td
+(Gameplay Mechanics And Level Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 723. Td
+(Core gameplay mechanics) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 706. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 691. Td
+(Explain how the core actions and rules shape a recurring player decision. Support the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 678. Td
+(explanation with a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 665. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 650. Td
+(In the version of the game that I played, the player is placed in an empty field against an endless wave of constantly) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 637. Td
+(spawning enemy tanks, fighters and UFOs. The player is locked to a certain field of view in front of them and must rely) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 624. Td
+(on a radar on the top of the display to located enemies and destroy them before they shoot first. The player has 5 lives) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 611. Td
+(with the goal of getting the highest score possible. The enemy tanks and fighters are the only actively hostile entities) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 598. Td
+(while the UFOs are fast, harmless entities that reward extra score when destroyed, but disappear after a while. This has) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 585. Td
+(the player face a dilemma when both an enemy tank and UFO appear on screen, with the player having to decide on) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 572. Td
+(whether to risk aiming for the fast-moving UFO and risk losing a life to the tank, or vice versa with destroying the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 559. Td
+(immediate threat but risk losing out on extra score opportunity.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 531. Td
+(Level design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 514. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 499. Td
+(Explain how the layout, obstacles, or progression affect a player decision or challenge. Use) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 486. Td
+(a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 473. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 458. Td
+(In the original version of Battlezone, the field had different types of cover that can be used by both players and enemies,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 445. Td
+(but in the Atari 2600 version, the field was barren of any cover, leaving the player to rely on outmaneuvering the enemy) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 432. Td
+(and avoiding their shots. As the game progresses, enemies start to spawn faster, and \(at least from the score that I) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 419. Td
+(reached\) enemy tanks are replaced with super tanks that start to ramp up in speed, making them harder to hit while) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 406. Td
+(they constantly maintain a target on the player. Thus, the time in the decision making process between a player trying to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 393. Td
+(aim for UFOs or Tanks is shortened, increasing the challenge.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 365. Td
+(Graphic And Audio Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 340. Td
+(Visual design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 323. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 308. Td
+(Explain how a visual design choice affects the experience or communicates information) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 295. Td
+(during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 282. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 267. Td
+(Compared to the original game which was largely in black and green, with black being used for the ground and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 254. Td
+(background, and green highlights being used to highlight background mountains, enemies, and cover. As for the Atari) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 241. Td
+(2600 version, the field is colorful with the player's tank being colored green whilst enemy tanks, fighters, and UFOs are) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 228. Td
+(blue, yellow, and red respectively. As for being tied into gameplay, there is a little marker right above the center of the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 215. Td
+(screen that changes color when the "crosshair" is hovering over an enemy, signaling the player that it would be a good) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 202. Td
+(idea to fire then. The game also features a radar on the top of the display that shows which direction the player is facing) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 189. Td
+(along with white dots signifying where nearby enemies are.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 161. Td
+(Sound design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 144. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 129. Td
+(Explain how music, sound effects, or their absence affect the experience or communicate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 116. Td
+(information during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 103. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 88. Td
+(During play, there is a distinct sound effect that plays when both the player's tank and the enemy tanks fire off a round,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 75. Td
+(letting the player know if a target not within their field of view is attacking them. Another audio cue that helps in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 62. Td
+(gameplay is that when enemies spawn, regardless if they are a tank, fighter, or UFO, a specific noise rings out to let the) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 2 of 4) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 4924
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 748. Td
+(player know. Lastly, when any entity on the field is destroyed, be it player or enemy, an explosion sound effect plays,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 735. Td
+(which can help a player know if a shot they let off before looking away from the target they shot at was successfully hit.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 707. Td
+(Narrative And Storytelling) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 682. Td
+(Narrative and setting) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 665. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 650. Td
+(Explain how the setting and story relate to play. Describe key events if present, or explain) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 637. Td
+(the effect of a limited or absent story.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 624. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 609. Td
+(The effect of having an absent story allows for the user to focus solely on the actual gameplay experience. This was) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 596. Td
+(helpful since this was a port of an arcade game where gameplay was the main focus for short play sessions rather than) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 583. Td
+(pursuing a story experience.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 555. Td
+(Character development) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 538. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 523. Td
+(Explain how character development relates to gameplay, or how limited or absent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 510. Td
+(development affects the experience.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 497. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 482. Td
+(Since there are no characters in Battlezone, with the player and enemies only being vehicles, the player can focus) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 469. Td
+(purely on gameplay and achieving a high score. However, you could say that the presence of super tanks later on in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 456. Td
+(gameplay as the player racks up points shows the character development of the enemy tanks and how they need to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 443. Td
+(bring out more elite units to take the player out.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 415. Td
+(Impact And Reception) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 390. Td
+(Reception) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 373. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 358. Td
+(Summarize the critical and player reception using identifiable reviews or feedback.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 345. Td
+(Distinguish release-era reception from later reactions.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 332. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 317. Td
+(Of the era, player feedback behind Battlezone \(Atari 2600\) were comparing it to Activision's Robot Tank and how that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 304. Td
+(game had more features than both the newly ported Battlezone and the original. Some other things noted were how the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 291. Td
+(Battlezone for the Atari 2600's artstyle dumbed down enemy tank turning from 3D renders to sprites that only swap) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 278. Td
+(sides that they're facing instead of smoothly turning like in the original arcade game.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 265. Td
+(https://www.atarihq.com/reviews/2600/battlezone.php) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 237. Td
+(Industry and cultural impact) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 220. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 205. Td
+(Explain the game's industry impact and cultural significance using research. Avoid claiming) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 192. Td
+(influence that the sources do not establish.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 179. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 164. Td
+(Battlezone \(1980\) was one of the first mainstream successes of an arcade game that let the player traverse and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 151. Td
+(immerse themselves in a 3D landscape. Not only that, but apparently the game was so influential that it caught the eye) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 138. Td
+(of the US military who would commission Atari to create a special version of Battlezone titled the "Bradley Trainer" to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 125. Td
+(help train soldiers using a simulated version of the M2 Bradley military vehicle.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 112. Td
+(https://spectrum.ieee.org/battlezone) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 99. Td
+(https://www.safestuff.com/bradley.htm) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 3 of 4) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1848
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 748. Td
+(Reflection) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 723. Td
+(Fun and experience) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 706. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 691. Td
+(Explain what made the game enjoyable or frustrating for you, using a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 678. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 663. Td
+(What made the game enjoyable for me is trying to use the skills I have learned playing with modern game tanks in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 650. Td
+(Battlezone and was pleased to see that they properly work. Another satisfying thing is predicting and landing shots on) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 637. Td
+(moving targets, for example, there were times where I correctly predicted where to shoot against a fast moving UFO.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 609. Td
+(Learning and research) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 592. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 577. Td
+(Reflect on what this case study taught you and how easy or difficult it was to find) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 564. Td
+(dependable information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 551. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 536. Td
+(Something that this case study had taught me was how innovative games were back then. As for finding dependable) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 523. Td
+(information, it was a little hard to do so, especially the part regarding original reviews of the original 1980 Arcade) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 510. Td
+(release.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 4 of 4) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261012230035-04'00')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000018481 00000 n 
+0000020321 00000 n 
+0000000015 00000 n 
+0000000544 00000 n 
+0000005368 00000 n 
+0000005473 00000 n 
+0000011393 00000 n 
+0000011498 00000 n 
+0000016474 00000 n 
+0000016580 00000 n 
+0000018556 00000 n 
+0000018682 00000 n 
+0000018813 00000 n 
+0000018947 00000 n 
+0000019085 00000 n 
+0000019209 00000 n 
+0000019338 00000 n 
+0000019470 00000 n 
+0000019606 00000 n 
+0000019734 00000 n 
+0000019861 00000 n 
+0000019990 00000 n 
+0000020123 00000 n 
+0000020225 00000 n 
+0000020574 00000 n 
+0000020660 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <520AE1197BE9036F924340D48742231E> <520AE1197BE9036F924340D48742231E> ]
+>>
+startxref
+20764
+%%EOF
