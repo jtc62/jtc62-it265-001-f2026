@@ -77,7 +77,12 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 
 | Piece or material | Quantity for setup | What it represents | How it is used |
 | --- | --- | --- | --- |
-| [Piece or material] | [Quantity, if needed] | [Game meaning] | [Player action or rule it supports] |
+| Green Token | [Quantity, if needed] | Action Token | [Player action or rule it supports] |
+| Gold Token | [Quantity, if needed] | Orders | [Player action or rule it supports] |
+| Red Token | [Quantity, if needed] | Damage Token | [Player action or rule it supports] |
+| Unit Card | [Quantity, if needed] | Unit Card | [Player action or rule it supports] |
+| Equipment Card | [Quantity, if needed] | Equipment Card | [Player action or rule it supports] |
+| Marked Board | [Quantity, if needed] | Game Field | [Player action or rule it supports] |
 
 ### Materials And Mechanic Adjustments
 
