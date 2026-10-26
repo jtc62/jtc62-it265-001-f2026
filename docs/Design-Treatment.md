@@ -156,9 +156,9 @@ record only feedback and outcomes that actually occurred. -->
 | Reviewer and relationship | Specific observation | Revision or next test |
 | Reviewer and relationship | Specific observation | Response and effect on the design |
 | --- | --- | --- |
-| [Person 1] | [Observation] | [Revision or next test] |
-| [Person 2] | [Observation] | [Revision or next test] |
-| [Person 3] | [Observation] | [Revision or next test] |
+| Erick A. - TTRPG Friend | [Observation] | [Revision or next test] |
+| Derek P. - TTRPG Friend | [Observation] | [Revision or next test] |
+| James C. - TTRPG Friend | [Observation] | [Revision or next test] |
 | [Person 1] | [Observation] | [Change or next test, reason, and effect if observed] |
 | [Person 2] | [Observation] | [Change or next test, reason, and effect if observed] |
 | [Person 3] | [Observation] | [Change or next test, reason, and effect if observed] |
