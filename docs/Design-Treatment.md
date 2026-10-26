@@ -4,7 +4,7 @@ _Game Design Treatment_
 
 **Designer:** James Cayetano
 
-**Updated:** 10/13/26
+**Updated:** 10/26/26
 
 <!--
 Use this document to explain the game clearly enough for a reader to understand
@@ -18,7 +18,7 @@ proposals. A finished prototype or digital implementation is not needed here.
 ## Game Concept
 
 <!-- Explain why the working title fits. Mention alternative titles if useful. -->
-[Explain the title choice.]
+I wanted the title of the game to represent the gameplay which revolves around controlling a squadron of soldiers that you personally chose. In this case, I went with the word "Cohort" instead of something like "Squad" (a game by that name already exists), "Platoon" seems too big a scale.
 
 <!-- Describe the setting, theme, and story or premise. Identify the characters
 or the role the player takes. A game without a story can describe its situation
