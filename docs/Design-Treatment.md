@@ -134,7 +134,7 @@ Cohort uses the tactical positioning of units in a military setting, similar to 
 <!-- Bring together the concept, theme, intended audience, player experience,
 and strongest USP in a concise pitch. Summarize the earlier sections rather
 than repeating their full details. -->
-Cohort is a competitive PvP military strategy game where two players command squads of Infantry, Vehicles, and Emplacements across a four-rank battlefield. Designed for players who enjoy tactical combat and resource management, the game emphasizes positioning, unit synergies, and command decisions rather than luck alone. Through a combination of Order generation, Equipment Cards, and unique unit abilities, players must adapt their battle plan to overcome their opponent.
+Cohort is a competitive PvP military strategy game where two players command squads of Infantry, Vehicles, and Emplacements across a four-rank battlefield. Designed for players who enjoy tactical combat and resource management, the game emphasizes positioning, unit synergies, and command decisions. Through a combination of Order generation, Equipment Cards, and unique unit abilities, players must adapt their battle plan to overcome their opponent.
 
 ## Visual Direction
 
