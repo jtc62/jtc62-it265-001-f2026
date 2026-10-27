@@ -118,7 +118,7 @@ This is designed for players who like strategic TCG style games, RTS games as we
 understand, and use the game's actual interactions. Explain how these choices
 preserve the intended gameplay and can carry into the later digital version.
 Choose considerations relevant to this game; a generic feature list is not enough. -->
-[Describe the accessibility choices and how they support play.]
+Unit Actions will be displayed on their card for readability, health and armor being clearly denoted. The Damage Tokens will have a Heart around the Number, with Shred Tokens having a Broken Shield as a decal. Action Tokens will have a Lightning Bolt decal, and Orders will look like a Medal. And to ensure that there is no confusion, a Legend sheet will also be provided for players to look for for reference. 
 
 ## Unique Selling Points (USP)
 
