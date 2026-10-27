@@ -118,7 +118,7 @@ This is designed for players who like strategic TCG style games, RTS games as we
 understand, and use the game's actual interactions. Explain how these choices
 preserve the intended gameplay and can carry into the later digital version.
 Choose considerations relevant to this game; a generic feature list is not enough. -->
-Unit Actions will be displayed on their card for readability, health and armor being clearly denoted. The Damage Tokens will have a Heart around the Number, with Shred Tokens having a Broken Shield as a decal. Action Tokens will have a Lightning Bolt decal, and Orders will look like a Medal. And to ensure that there is no confusion, a Legend sheet will also be provided for players to look for for reference. 
+Unit Actions will be displayed on their card for readability, health and armor being clearly denoted. The Damage Tokens will have a Heart around the Number, with Shred Tokens having a Broken Shield as a decal. Action Tokens will have a Lightning Bolt decal, and Orders will look like a Medal. And to ensure that there is no confusion, a Legend sheet will also be provided for players to look for for reference. This allows for players to distinguish tokens even if color differences are difficult to perceive. The game's play field consists of only four ranks per side and uses simple numerical positioning, reducing the amount of complexity players must track. Players may freely inspect cards, unit information, and public game states at any time, ensuring that information is not hidden behind memory requirements.
 
 ## Unique Selling Points (USP)
 
@@ -127,14 +127,14 @@ players a reason to choose this game. Explain those choices through a relevant
 comparison with an existing game. Connect the differences to the intended
 players' experience; support the comparison with concrete design details.
 Explain why the difference would make play more interesting to those players. -->
-[Explain the game's unique selling points and the relevant comparison.]
+Cohort uses the tactical positioning of units in a military setting, similar to the dungeon crawler game "Darkest Dungeon". In comparison however, players must decide how to position Infantry, Vehicles, and Emplacements within only four battlefield ranks while managing limited Actions, Orders, and Equipment Cards. This creates meaningful tactical decisions without requiring a large play area or complex setup.
 
 ## Concept Pitch
 
 <!-- Bring together the concept, theme, intended audience, player experience,
 and strongest USP in a concise pitch. Summarize the earlier sections rather
 than repeating their full details. -->
-[Write the concise pitch.]
+Cohort is a competitive PvP military strategy game where two players command squads of Infantry, Vehicles, and Emplacements across a four-rank battlefield. Designed for players who enjoy tactical combat and resource management, the game emphasizes positioning, unit synergies, and command decisions rather than luck alone. Through a combination of Order generation, Equipment Cards, and unique unit abilities, players must adapt their battle plan to overcome their opponent.
 
 ## Visual Direction
 
@@ -187,13 +187,13 @@ Show the actual pieces, a representative interaction, and how the game ends or
 reaches its outcome. Make the strongest USP and a concrete feedback-driven change
 clear. Keep this as planning notes, not a second treatment or a full script. -->
 
-**Presentation time cap:** [Use the limit given for the presentation.]
+**Presentation time cap:** 5 Minutes
 
 | Segment | What to show or explain | Planned time |
 | --- | --- | --- |
-| Introduction | Core concept and strongest USP | [Time] |
-| Prototype | Pieces, their meaning, and how players use them | [Time] |
-| Gameplay | A representative interaction and the ending or outcome | [Time] |
-| Feedback | A concrete design change and why it was made | [Time] |
+| Introduction | Core concept and strongest USP | 1 Minute |
+| Prototype | Pieces, their meaning, and how players use them | 1 1/2 Minutes |
+| Gameplay | A representative interaction and the ending or outcome | 2 Minutes |
+| Feedback | A concrete design change and why it was made | 30 Seconds |
 
-**Planned total:** [Duration]
+**Planned total:** 5 Minutes
