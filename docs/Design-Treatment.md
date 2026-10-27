@@ -171,14 +171,10 @@ underlying concern is addressed. Distinguish planned changes from completed ones
 record only feedback and outcomes that actually occurred. -->
 
 | Reviewer and relationship | Specific observation | Revision or next test |
-| Reviewer and relationship | Specific observation | Response and effect on the design |
 | --- | --- | --- |
-| Avery C. - Best Friend | [Observation] | [Revision or next test] |
-| Derek P. - TTRPG Friend | "Looks simple enough to understand at first, just needs some clarifications in some places." | Ensure that Rules are thoroughly explained and understandable. |
-| Rus S. - TTRPG Friend | "Seems fairly balanced at a glance." | Playtest combat to adjust HP, Damage, and economy. |
-| [Person 1] | [Observation] | [Change or next test, reason, and effect if observed] |
-| [Person 2] | [Observation] | [Change or next test, reason, and effect if observed] |
-| [Person 3] | [Observation] | [Change or next test, reason, and effect if observed] |
+| Avery C. - Best Friend | "My only hang up is that I had trouble understanding the [Rank] system." | Be sure there is a Visual Representation and comparison to other game systems to clarify it to the player. |
+| Derek P. - TTRPG Friend | "Looks simple enough to understand at first, just needs some clarifications in some places." | Ensure that Rules are thoroughly explained and understandable to those outside of the TTRPG field. |
+| Kevin M. - Online Friend | "At a glance, mechanics look unbalanced, especially the Main Battle Tank Unit." | Playtest combat to adjust HP, Damage, and economy, especially regarding the vehicles and emplacements as the seem to be overpowered and underpowered respectively. |
 
 ## Physical Prototype Demo Plan
 
