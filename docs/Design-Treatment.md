@@ -51,7 +51,6 @@ Players will choose as many Units that can fit onto their side of the field. For
 <!-- Describe the recurring player choices and actions, the rules that connect
 them, and what changes as a result. Game state is the current situation, such as
 positions, resources, score, or available choices. -->
-[Explain what the player considers, chooses or does, and how that changes the next decision.]
 Core Loop:
 - Each unit can perform an action at least once per [Phase] depending on the specific Unit. 
 - After a unit has acted, remove an [Action Token] from the Unit, and then the opponent gets to act with one of their Units.
@@ -64,7 +63,7 @@ Core Loop:
 
 <!-- State when play ends and how the outcome is decided. Include win/lose
 conditions where applicable, or another clear beginning/end structure. -->
-[Explain the end conditions and resulting outcome.]
+Play ends when all of the units on one player's side are all defeated. A player loses if all of their units are defeated, and wins if at least one of their units survives when all of their opponents' units are down.
 
 ## First Physical Prototype
 
@@ -87,13 +86,13 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 
 | Piece or material | Quantity for setup | What it represents | How it is used |
 | --- | --- | --- | --- |
-| Green Token | [Quantity, if needed] | Action Token | [Player action or rule it supports] |
-| Gold Token | [Quantity, if needed] | Orders | [Player action or rule it supports] |
-| Red Token | [Quantity, if needed] | Damage Token | [Player action or rule it supports] |
-| Grey Token | [Quantity, if needed] | Armor Shred Token | [Player action or rule it supports] |
-| Unit Card | [Quantity, if needed] | Unit Card | [Player action or rule it supports] |
-| Equipment Card | [Quantity, if needed] | Equipment Card | [Player action or rule it supports] |
-| Marked Board | [Quantity, if needed] | Game Field | [Player action or rule it supports] |
+| Green Token | 14 | Action Token | Marks how many ACTIONs a Unit has left in the current [Phase]. Minimum 1 per Unit unless stated other wise (ex. Main Battle Tank gets 2 Actions per phase) |
+| Gold Token | 16 | Orders | Gained at a Rate of 2 ORDERs per [Phase]. Can hold up to a MAX of 6 ORDER Tokens, any further ones are discarded. |
+| Red Token | Fifteen 1's, Fifteen 2's, Ten 5's, Ten 10's | Damage Token (1/2/5/10) | These tokens represent how much Damage a Unit has taken, rather than their current health. For example: Unit with 8 HP has a 1 and 2 [DAMAGE Token], then that means they have taken 3 total damage, and their current health is: 8 - (1 + 2) = 5 HP. If a Unit has [ARMOR], Damage taken is reduced by the amount of [ARMOR] the unit has, but cannot be reduced below 1. For example: Unit with 30 HP + 5 Armor gets hit with an attack dealing 4 Damage, damage taken is reduced by armor to a minimum of 1. So damage becomes: 30 - (5 Armor - 4) = 30 - 1 = 29 HP left. When restoring health/removing [DAMAGE Token]s, if a Unit has a 5 [DAMAGE Token], and a Medic heals for 2, swap the 5 token for a 1 and 2 Token, becoming 3 Damage taken. |
+| Grey Token | 10 | Armor Shred Token | Some Units and Equipment have the ability to [SHRED] Unit armor. Similar to DAMAGE Tokens, these tokens represent how much damage a Unit's armor has taken. For example: Unit with 2 armor has a 2 [SHRED] token, meaning their current armor is now: 2 - 2, meaning the Unit is now unarmored. |
+| Unit Card | 28 [2 Copies of 14 Cards] | Unit Card | Used to denote the Unit a player has chosen to deploy on the field, displaying their Health Points, Armor (if applicable), and Unit Specific Actions |
+| Equipment Card | 20 [2 Copies of 10 Cards] | Equipment Card | Used to show the Equipment card drawn by a player and held in hand, displaying their effects and cost to use. |
+| Marked Board | 1 | Game Field | To help players organize their cards on the field and how movement works. |
 
 ### Materials And Mechanic Adjustments
 
