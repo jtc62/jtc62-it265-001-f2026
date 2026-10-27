@@ -153,9 +153,9 @@ its visual choices support the theme or intended player experience. -->
 <!-- Use a different image that adds information, such as another interaction,
 space, or moment. A second view should help the reader understand another part
 of the design. Connect its visual choices to the theme or player experience. -->
-[Insert the second sketch or storyboard image.]
+<img width="1024" height="768" alt="UnitCardExample" src="https://github.com/user-attachments/assets/2ad9eb8e-6cfb-4fa1-8606-2d59c25ba1bb" />
 
-**Caption:** [Explain the distinct information this image adds and why its visual choices fit the game.]
+**Caption:** This image displays how an individual card might look. This card in particular has yet to take an Action, denoted by the still present Green Action Token, has taken a total of 2 Damage denoted by the two Red 1 Damage Tokens. This also shows that this player is currently in possession of one [Order] Token and might use it to perform the action [Suppressing Fire.]
 
 ## Feedback And Revisions
 
