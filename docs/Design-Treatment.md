@@ -144,9 +144,9 @@ Cohort is a competitive PvP military strategy game where two players command squ
 the concept, style, space, or player interaction. Use Markdown image syntax with
 your image's actual path. The caption explains what the image represents and how
 its visual choices support the theme or intended player experience. -->
-[Insert the first sketch or storyboard image.]
+<img width="1024" height="768" alt="RanksSystem" src="https://github.com/user-attachments/assets/92b08f1d-6746-426e-b7f0-fdf6203a79bb" />
 
-**Caption:** [Explain what this image shows and why its visual choices fit the game.]
+**Caption:** This Image displays how the [Rank] positioning System works. Here, Player 1 has a Tank Unit that takes up [Ranks 2-4], leaving only 1 free [Rank] space left, which is filled by an Infantry Unit. Player 2 has an Emplacement in [Rank 4] , with a Vehicle taking up two [Ranks], those being [Ranks 2 - 3]
 
 ### Second Sketch Or Storyboard Panel
 
