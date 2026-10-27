@@ -32,12 +32,12 @@ succeeds, fails, or ends. Describe the recurring decisions and actions, the rule
 that connect them, and what changes in the game as a result. Game state means the
 current situation, such as positions, resources, score, or available choices.
 Describe the intended experience through those interactions. -->
-Each player controls a squadron of units that will be deployed onto a field consisting of 4 Spaces called [Ranks].
-[Ranks] on the field are numbered 1-4, scaling upward depending on what side each player is on, visualized below:
+Each player controls a squadron of units that will be deployed onto a field consisting of 4 Spaces called [s].
+[s] on the field are numbered 1-4, scaling upward depending on what side each player is on, visualized below:
 
 - Player 1    4-3-2-1 |CENTER| 1-2-3-4    Player 2
 
-Units will take 1-3 [Ranks], depending on Unit Type and strength. Players will choose as many Units that can fit onto their side of the field. For example, a player may choose four [Infantry] type Units that take up one [Rank] each, while another may choose a [Vehicle] that takes up 2 [Rank]s, along with two [Infantry] units.
+Units will take 1-3 [s], depending on Unit Type and strength. Players will choose as many Units that can fit onto their side of the field. For example, a player may choose four [Infantry] type Units that take up one [] each, while another may choose a [Vehicle] that takes up 2 [Rank]s, along with two [Infantry] units.
 
 ### Setup And Start
 
@@ -71,11 +71,14 @@ Play ends when all of the units on one player's side are all defeated. A player 
 boards, cards, tokens, dice, or a score sheet. Use only what this game needs.
 Explain what the pieces represent and how a player uses them to try the core
 loop. This is a feasible plan, not a finished prototype or playtest result. -->
-[Describe the planned prototype, its pieces, and how they support play.]
+Planned Prototype would contain a simple board to represent the play field, marked with spots denoting [Rank] spaces. Cards to represent Units and Equipment, and Tokens to represent Actions Taken, Orders (Energy) in player's possession, Damage Taken, and Armor Shredded. Explanation can be found below in Pieces and Purposes.
+
 <!-- Describe the planned or current physical play area. Mark pieces that have
 not been made as planned, and update this section as the prototype develops.
 A plan can be described before the prototype is built. -->
-[Describe the physical version and the arrangement of its play area.]
+Pieces that haven't been made yet:
+- Extra Unit Cards
+- Dice to track Health instead of Tokens(?)
 
 ### Pieces And Their Purpose
 
@@ -100,14 +103,14 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 for this prototype. Describe how rules, values, layouts, or pieces can be changed
 between playthroughs without rebuilding the whole prototype. Focus on usable,
 readable materials and actual design choices. -->
-[Explain the material choices and how mechanics can be adjusted during testing.]
+Most of the materials with be printed on paper, tokens may be replaced with Poker Chips in the future. Unit and Equipment Cards will eventually be replaced from regular printer paper to photo paper.
 
 ## Intended Players
 
 <!-- Identify the intended audience's relevant interests and play habits.
 Explain why this game's decisions, theme, or intended experience would appeal
 to those players. Connect the audience to specific design choices. -->
-[Describe the intended players and why the game fits them.]
+This is designed for players who like strategic TCG style games, RTS games as well as deckbuilders who enjoy theorycrafting. It would appeal to them as they could experiment with teams and strategies on what they think they will enjoy, be it related to a theme or trying to build the most effective team.
 
 ## Accessibility And Inclusivity
 
@@ -122,7 +125,6 @@ Choose considerations relevant to this game; a generic feature list is not enoug
 <!-- Unique selling points are the distinctive design choices that give intended
 players a reason to choose this game. Explain those choices through a relevant
 comparison with an existing game. Connect the differences to the intended
-players' experience; support the comparison with concrete design details. -->
 players' experience; support the comparison with concrete design details.
 Explain why the difference would make play more interesting to those players. -->
 [Explain the game's unique selling points and the relevant comparison.]
