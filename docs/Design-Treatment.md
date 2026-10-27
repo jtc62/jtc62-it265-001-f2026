@@ -23,7 +23,7 @@ I wanted the title of the game to represent the gameplay which revolves around c
 <!-- Describe the setting, theme, and story or premise. Identify the characters
 or the role the player takes. A game without a story can describe its situation
 and player roles instead; do not invent a narrative just to fill this section. -->
-[Describe the premise and the player's place in it.]
+The player takes the role of a Mercenary Commander taking command of a squadron of units to fight against another player. The types of units that the player can select range from squads of Rifleman, Gun Emplacements, and even armored vehicles like tanks.
 
 ## Gameplay
 
@@ -32,16 +32,19 @@ succeeds, fails, or ends. Describe the recurring decisions and actions, the rule
 that connect them, and what changes in the game as a result. Game state means the
 current situation, such as positions, resources, score, or available choices.
 Describe the intended experience through those interactions. -->
-[Describe the goals, challenges, and ending.]
-[Describe the player's goals and challenges.]
+Each player controls a squadron of units that will be deployed onto a field consisting of 4 Spaces called [Ranks].
+[Ranks] on the field are numbered 1-4, scaling upward depending on what side each player is on, visualized below:
 
-[Explain the core loop: what the player considers, chooses or does, and how that changes the next decision.]
+- Player 1    4-3-2-1 |CENTER| 1-2-3-4    Player 2
+
+Units will take 1-3 [Ranks], depending on Unit Type and strength. Players will choose as many Units that can fit onto their side of the field. For example, a player may choose four [Infantry] type Units that take up one [Rank] each, while another may choose a [Vehicle] that takes up 2 [Rank]s, along with two [Infantry] units.
+
 ### Setup And Start
 
 <!-- Describe the starting state: how the play area and pieces are arranged,
 what each player begins with, and how play starts. Refer to the pieces described
 below rather than listing them twice. -->
-[Explain how a game is set up and begins.]
+Players will choose as many Units that can fit onto their side of the field. For example, a player may choose four [Infantry] type Units that take up one [Rank] each, while another may choose a [Vehicle] that takes up 2 [Rank]s, along with two [Infantry] units. Players will create a deck of 6 selected Equipment cards to place in a deck that will be drawn from throughout the match. At the beginning of each [Phase], players draw 1 Equipment Card from a created deck of 6 Equipment cards. A player can hold up to 3 Equipment cards in their hand at max, any more must either be discarded or exchanged with another Equipment card.
 
 ### Core Gameplay Loop
 
@@ -49,6 +52,13 @@ below rather than listing them twice. -->
 them, and what changes as a result. Game state is the current situation, such as
 positions, resources, score, or available choices. -->
 [Explain what the player considers, chooses or does, and how that changes the next decision.]
+Core Loop:
+- Each unit can perform an action at least once per [Phase] depending on the specific Unit. 
+- After a unit has acted, remove an [Action Token] from the Unit, and then the opponent gets to act with one of their Units.
+- After a unit has no more [Action Tokens], it cannot act for the rest of the [Phase]. 
+- A [Phase] ends when both players' units have no more action tokens. Upon [Phase] ending, both players' units regain all of their actions back.
+- Units Types have access to a shared Action, as well as a unit specific Action, and a unit specific special Action that consumes a resource known as [Order]s.
+- [Orders] are a form of Energy that are automatically gained at a rate of 2/Phase, with other sources of [Orders] being certain Unit actions or passives, and Equipment. These [Orders] allow units to perform certain actions and use certain pieces of Equipment. 
 
 ### Ending And Outcome
 
@@ -80,6 +90,7 @@ needed for setup. Repeated copies of the same piece can share one row. -->
 | Green Token | [Quantity, if needed] | Action Token | [Player action or rule it supports] |
 | Gold Token | [Quantity, if needed] | Orders | [Player action or rule it supports] |
 | Red Token | [Quantity, if needed] | Damage Token | [Player action or rule it supports] |
+| Grey Token | [Quantity, if needed] | Armor Shred Token | [Player action or rule it supports] |
 | Unit Card | [Quantity, if needed] | Unit Card | [Player action or rule it supports] |
 | Equipment Card | [Quantity, if needed] | Equipment Card | [Player action or rule it supports] |
 | Marked Board | [Quantity, if needed] | Game Field | [Player action or rule it supports] |
@@ -151,8 +162,8 @@ of the design. Connect its visual choices to the theme or player experience. -->
 Use initials or a first name and the person's relationship to you; omit private
 contact details. Each entry identifies a specific observation about the concept,
 mechanics, or style and the revision or next test it prompted. Record feedback
-that actually occurred, and distinguish a proposed change from a completed one. -->
-contact details. Give actionable observations about the concept, mechanics, or
+that actually occurred, and distinguish a proposed change from a completed one. 
+Give actionable observations about the concept, mechanics, or
 style. Explain the change or next test each observation prompted and its effect
 if tried. If a suggestion is not adopted, explain the design reason and how the
 underlying concern is addressed. Distinguish planned changes from completed ones;
@@ -161,9 +172,9 @@ record only feedback and outcomes that actually occurred. -->
 | Reviewer and relationship | Specific observation | Revision or next test |
 | Reviewer and relationship | Specific observation | Response and effect on the design |
 | --- | --- | --- |
-| Erick A. - TTRPG Friend | [Observation] | [Revision or next test] |
-| Derek P. - TTRPG Friend | [Observation] | [Revision or next test] |
-| James C. - TTRPG Friend | [Observation] | [Revision or next test] |
+| Avery C. - Best Friend | [Observation] | [Revision or next test] |
+| Derek P. - TTRPG Friend | "Looks simple enough to understand at first, just needs some clarifications in some places." | Ensure that Rules are thoroughly explained and understandable. |
+| Rus S. - TTRPG Friend | "Seems fairly balanced at a glance." | Playtest combat to adjust HP, Damage, and economy. |
 | [Person 1] | [Observation] | [Change or next test, reason, and effect if observed] |
 | [Person 2] | [Observation] | [Change or next test, reason, and effect if observed] |
 | [Person 3] | [Observation] | [Change or next test, reason, and effect if observed] |
