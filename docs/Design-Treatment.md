@@ -32,12 +32,12 @@ succeeds, fails, or ends. Describe the recurring decisions and actions, the rule
 that connect them, and what changes in the game as a result. Game state means the
 current situation, such as positions, resources, score, or available choices.
 Describe the intended experience through those interactions. -->
-Each player controls a squadron of units that will be deployed onto a field consisting of 4 Spaces called [s].
-[s] on the field are numbered 1-4, scaling upward depending on what side each player is on, visualized below:
+Each player controls a squadron of units that will be deployed onto a field consisting of 4 Spaces called [Ranks].
+[Ranks] on the field are numbered 1-4, scaling upward depending on what side each player is on, visualized below:
 
 - Player 1    4-3-2-1 |CENTER| 1-2-3-4    Player 2
 
-Units will take 1-3 [s], depending on Unit Type and strength. Players will choose as many Units that can fit onto their side of the field. For example, a player may choose four [Infantry] type Units that take up one [] each, while another may choose a [Vehicle] that takes up 2 [Rank]s, along with two [Infantry] units.
+Units will take 1-3 [Ranks], depending on Unit Type and strength. Players will choose as many Units that can fit onto their side of the field. For example, a player may choose four [Infantry] type Units that take up one [Rank] each, while another may choose a [Vehicle] that takes up 2 [Rank]s, along with two [Infantry] units.
 
 ### Setup And Start
 
