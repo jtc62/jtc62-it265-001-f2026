@@ -17,21 +17,21 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  > 
+  > Started looking on the Unity Asset store and creating a simple design document that will hold any Unity Store asset links (if used at all).
 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  > 
+  > Doing more balancing following playtesting with friends.
 
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > 
+  > Search up other methods of balancing done by other game devs online.
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
-> 
+> Whether or not to use this game for the IGDA Game Jam or to create a whole new Physical Board Game.
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 > (Try to) Read a bit of the textbook to get a better understanding behind the mindset that goes into Game Developement.
-> 
+> Create a new Unity Project and start laying the framework for my game.
